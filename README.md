@@ -1,2 +1,2 @@
-# bounceOff-Function
-bounceOff functionon VSC
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
